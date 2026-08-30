@@ -261,7 +261,7 @@ Contributions are welcome! Please open an issue or submit a pull request. For ma
 
 ## License
 
-This project is licensed under the Apache 2.0 License – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License – see the [LICENSE](License.txt) file for details.
 
 ---
 
