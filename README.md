@@ -6,7 +6,7 @@
 <h1 align="center">-ADA PRICE PREDICTOR-</h1>
 
 <p align="center">
-  <strong>XXX</strong>
+  <strong>_________</strong>
 </p>
 
 
