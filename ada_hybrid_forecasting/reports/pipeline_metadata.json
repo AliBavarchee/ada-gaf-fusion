@@ -1,0 +1,27 @@
+{
+    "dataset": "C:\\/Users\\/Ali\\/Documents\\/github_alibavarchiee\\/ADAXXX\\/ADAUSDT_multiscale_long.csv",
+    "asset": "ADA",
+    "market": "ADAUSDT",
+    "source": "Binance Spot",
+    "start": "2022-08-27",
+    "end": "2026-08-27",
+    "prediction_horizons": [
+        "1H",
+        "1W",
+        "1M"
+    ],
+    "canonical_frequency": "1H",
+    "models": [
+        "ARIMA",
+        "LightGBM",
+        "AutoEncoder",
+        "AE+LightGBM",
+        "ResNet18",
+        "Fusion LightGBM"
+    ],
+    "device": "cpu",
+    "rows_modeling_dataset": 35087,
+    "rows_train": 24935,
+    "rows_validation": 4416,
+    "rows_test": 5736
+}
