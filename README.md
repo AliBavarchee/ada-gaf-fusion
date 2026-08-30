@@ -149,7 +149,7 @@ ada-gaf-fusion/
 ├── ADAUSDT_multiscale_long.csv		# Input dataset
 │   
 ├── ada_forecast_vvv.py				# Main pipeline
-│   └── main.py                            
+│                              
 ├── ada_hybrid_forecasting/         # Generated during run
 │   ├── models/                     # Trained model files
 │   ├── predictions/                # CSV prediction files
