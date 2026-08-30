@@ -83,7 +83,7 @@ flowchart TD
     subgraph Test_Phase
         T[Retrain on Train+Val]
         T --> K2[LightGBM]
-        T --> L2[AutoEncoder (frozen)]
+        T --> L2["AutoEncoder (frozen)"]
         L2 --> M2[AE Latents]
         T --> N2[AE-LightGBM]
         T --> O2[ResNet18]
@@ -101,7 +101,6 @@ flowchart TD
     W --> X[Evaluation & Reports]
 ```
 
----
 
 ## Detailed Workflow
 
