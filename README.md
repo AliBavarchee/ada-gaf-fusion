@@ -193,10 +193,6 @@ This will:
 5. Train the fusion meta‑model.
 6. Evaluate on the test set and save outputs.
 
-### Resume Capability
-
-If the pipeline is interrupted, you can use the provided resume script (see `src/resume.py` if included) to continue from the last completed stage.
-
 ---
 
 ## Outputs
