@@ -182,7 +182,7 @@ The file should cover at least the period from `2022-08-27` to `2026-08-27` (or 
 Run the full pipeline:
 
 ```bash
-python src/main.py
+python ada_forecast_vvv.py
 ```
 
 This will:
