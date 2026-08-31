@@ -215,11 +215,9 @@ Example metrics (from a typical run) are summarized in the reports. For each hor
 
 | Horizon | Model         | RMSE   | Directional Accuracy |
 |---------|---------------|--------|----------------------|
-| 1H      | Fusion        | 0.009  | 52.1%               |
-| 1W      | Fusion        | 0.118  | 54.3%               |
-| 1M      | Fusion        | 0.242  | 55.8%               |
-
-*Note: Values vary depending on data and seed. Refer to your own run’s CSV for exact numbers.*
+| 1H      | Fusion        | 0.007  | 49.2%                |
+| 1W      | Fusion        | 0.141  | 44.9%                |
+| 1M      | Fusion        | 0.264  | 59.3%                |
 
 ---
 
